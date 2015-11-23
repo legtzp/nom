@@ -1,0 +1,48 @@
+.menu-left {
+    background-color: $assertive;
+    .item{
+      font-weight: bold;
+      color: #fff;
+      border: solid 1px #fff;
+    }
+}
+
+.beef{
+  border: solid .5 #0a9ec7 !important;
+  a{
+    background-color: #11c1f3 !important;
+  }
+}
+
+.poultry{
+  border-color: #e6b400;
+  a{
+    background-color: #ffc900 !important;
+  }
+}
+
+.seafood{
+  border-color: #6b46e5;
+  a{
+    background-color: #886aea !important;
+  }
+}
+
+.pasta{
+  a{
+    background-color: rgb(242, 88, 221) !important;
+  }
+}
+
+.soup{
+  a{
+    background-color: #FDFD96 !important;
+  }
+}
+
+.salad{
+  border-color: #28a54c;
+  a{
+    background-color: #33cd5f !important;
+  }
+}
